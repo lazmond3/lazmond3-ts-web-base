@@ -1,6 +1,6 @@
 {
   "name": "@lazmond3/lazmond3-ts-web-base",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
